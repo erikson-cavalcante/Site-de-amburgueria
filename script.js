@@ -2,15 +2,15 @@ const menuData = [
     {
         category: "Hambúrgueres Especiais",
         items: [
-            { id: 1, name: "Hambúrguer Gigante", desc: "Pão artesanal, muito queijo e ingredientes selecionados para matar a sua fome.", price: 35.00, img: "images/amburguergigante.jpg" },
-            { id: 2, name: "Big Burger Clássico", desc: "O clássico que nunca falha. Carne suculenta, queijo derretido e molho especial.", price: 28.00, img: "images/bigburger.jpg" }
+            { id: 1, name: "Hambúrguer Gigante", desc: "Pão artesanal, muito queijo e ingredientes selecionados para matar a sua fome.", price: 35.00, img: "amburguergigante.jpg" },
+            { id: 2, name: "Big Burger Clássico", desc: "O clássico que nunca falha. Carne suculenta, queijo derretido e molho especial.", price: 28.00, img: "bigburger.jpg" }
         ]
     },
     {
         category: "Pratos & Saudáveis",
         items: [
-            { id: 3, name: "Frango Assado", desc: "Delicioso frango temperado e assado, com um sabor irresistível.", price: 26.00, img: "images/frango.jpg" },
-            { id: 4, name: "Salada Fresca", desc: "Opção leve e saudável. Folhas frescas, tomate e ingredientes selecionados.", price: 18.00, img: "images/salada.jpg" }
+            { id: 3, name: "Frango Assado", desc: "Delicioso frango temperado e assado, com um sabor irresistível.", price: 26.00, img: "frango.jpg" },
+            { id: 4, name: "Salada Fresca", desc: "Opção leve e saudável. Folhas frescas, tomate e ingredientes selecionados.", price: 18.00, img: "salada.jpg" }
         ]
     }
 ];
